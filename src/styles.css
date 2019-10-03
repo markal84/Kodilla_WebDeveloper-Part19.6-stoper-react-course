@@ -1,0 +1,32 @@
+body {
+    background-color: #3c40c6;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    text-transform: uppercase;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+.button {
+    margin: 50px 20px 50px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #1e272e;
+    letter-spacing: .5em;
+    font-weight: 600;
+}
+
+.stopwatch {
+    color: #ecf0f1;
+    font-size: 50px;
+    letter-spacing: 1em;
+}
+
+.results {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    color: #0fbcf9;
+}
